@@ -22,6 +22,10 @@ I help financial institutions and technology companies find weaknesses before at
 | [sigma-detection-rules](https://github.com/papacyb3r/sigma-detection-rules) | Sigma detection rules mapped to MITRE ATT&CK for common Windows attack behaviours |
 | [risk-register-generator](https://github.com/papacyb3r/risk-register-generator) | Scores risks on a 5x5 matrix and produces a Markdown risk register with a heat map |
 | [secure-ci-pipeline-template](https://github.com/papacyb3r/secure-ci-pipeline-template) | GitHub Actions pipeline with secret scanning, SAST and dependency scanning, actions pinned to commit SHAs |
+| [ai-risk-assessment-toolkit](https://github.com/papacyb3r/ai-risk-assessment-toolkit) | Scores AI governance maturity against NIST AI RMF, with ISO/IEC 42001 and OWASP LLM mapping |
+| [llm-app-pentest-checklist](https://github.com/papacyb3r/llm-app-pentest-checklist) | Pentest checklist for LLM apps, RAG and agents, based on the OWASP LLM Top 10 |
+| [mcp-server-security-checklist](https://github.com/papacyb3r/mcp-server-security-checklist) | Security review checklist and threat model for MCP servers and AI agents |
+| [board-cyber-risk-dashboard](https://github.com/papacyb3r/board-cyber-risk-dashboard) | Builds a board-ready cyber risk dashboard from a CSV of key risk indicators |
 
 ## Credentials and learning
 
