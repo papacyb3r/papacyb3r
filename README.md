@@ -19,6 +19,9 @@ I help financial institutions and technology companies find weaknesses before at
 | [vapt-report-templates](https://github.com/papacyb3r/vapt-report-templates) | Sanitized penetration test report, finding and rules-of-engagement templates |
 | [mobile-pentest-checklist](https://github.com/papacyb3r/mobile-pentest-checklist) | Android/iOS testing checklist aligned to OWASP MASVS v2 |
 | [ghana-cyber-compliance-cheatsheet](https://github.com/papacyb3r/ghana-cyber-compliance-cheatsheet) | Quick reference to Ghana's cybersecurity and data protection obligations |
+| [sigma-detection-rules](https://github.com/papacyb3r/sigma-detection-rules) | Sigma detection rules mapped to MITRE ATT&CK for common Windows attack behaviours |
+| [risk-register-generator](https://github.com/papacyb3r/risk-register-generator) | Scores risks on a 5x5 matrix and produces a Markdown risk register with a heat map |
+| [secure-ci-pipeline-template](https://github.com/papacyb3r/secure-ci-pipeline-template) | GitHub Actions pipeline with secret scanning, SAST and dependency scanning, actions pinned to commit SHAs |
 
 ## Credentials and learning
 
